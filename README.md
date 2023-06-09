@@ -1,6 +1,6 @@
 # MERGE CONFLICT TEST
 ## NAMES
-Noel Negron III
+Noel Negron III, Karina Perez
 # Bryan decided to take over
 this is now his ``REPO``
 goodbye people who doubted my repo abilities
